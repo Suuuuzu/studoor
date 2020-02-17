@@ -101,6 +101,6 @@ def main():
         print(line_a)
 
 
-    #23から部屋
+    
 if __name__ == '__main__':
     main()
